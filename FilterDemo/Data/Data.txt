@@ -1,0 +1,24 @@
+﻿Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:22
+----------------------------------
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:22
+----------------------------------
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:22
+----------------------------------
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:23
+----------------------------------
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->23-10-2023 11:43:26
+----------------------------------
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->23-10-2023 11:43:26
+----------------------------------
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->23-10-2023 11:43:26
+----------------------------------
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Privacy (FilterDemo)->23-10-2023 11:43:26
+----------------------------------
+Before Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:28
+----------------------------------
+After Action execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:28
+----------------------------------
+Before Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:28
+----------------------------------
+After Result execution->FilterDemo.Controllers.HomeController->FilterDemo.Controllers.HomeController.Index (FilterDemo)->23-10-2023 11:43:28
+----------------------------------
